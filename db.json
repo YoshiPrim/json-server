@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Paracetamol 500mg",
+      "price": 4.99,
+      "in_stock": true
+    },
+    {
+      "id": 10002,
+      "name": "Ibuprofen 400mg",
+      "price": 7.49,
+      "in_stock": true
+    },
+    {
+      "id": 10003,
+      "name": "Amoxicillin 250mg",
+      "price": 12.99,
+      "in_stock": true
+    },
+    {
+      "id": 10004,
+      "name": "Cetirizine Hydrochloride 10mg",
+      "price": 5.99,
+      "in_stock": false
+    }
+  ]
+}
